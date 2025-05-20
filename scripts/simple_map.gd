@@ -6,7 +6,7 @@ const TILE_SIZE := Vector2i(64, 64)
 # How many tiles wide & high the prototype map should be.
 const MAP_WIDTH := 20
 const MAP_HEIGHT := 10
-
+#this is a test
 # Texture from the assets folder that will be used as ground tiles.
 const TEXTURE_PATH := "res://assets/PNG/ground_grass_details.png"
 
