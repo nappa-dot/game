@@ -7,7 +7,11 @@ const TILE_SIZE := Vector2i(64, 64)
 const MAP_WIDTH := 20
 const MAP_HEIGHT := 10
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #this is a testS12
+=======
+#this is a test1S
+>>>>>>> Stashed changes
 =======
 #this is a test1S
 >>>>>>> Stashed changes
