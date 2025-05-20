@@ -10,6 +10,7 @@ const MAP_HEIGHT := 10
 # Texture from the assets folder that will be used as ground tiles.
 const TEXTURE_PATH := "res://assets/PNG/ground_grass_details.png"
 
+#Test
 func _ready() -> void:
 	# Load the chosen texture once.
 	var texture: Texture2D = load(TEXTURE_PATH)
